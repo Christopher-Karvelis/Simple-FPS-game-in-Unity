@@ -1,0 +1,2 @@
+C:\Users\Chr1s\Desktop\Mincraft\New Unity Project\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\Chr1s\Desktop\Mincraft\New Unity Project\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
