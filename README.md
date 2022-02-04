@@ -1,4 +1,4 @@
-# Simple-FPS-game-in-Unity-to
+# Simple FPS game in Unity 
 This is a simple FPS game I developed during a university course using Unity engine.
 
 
