@@ -18,9 +18,9 @@ in any other case the player loses the game.
 Cube Colors
 
 ## Controls
-- p change color on the cube indicate the remaining stock and update points
-- b a cube is created in front of the player
-- q if there is a cube in front of the player then it gets destroyed
-- x all the cubes that exist on a stack in front of the player get deleted
-- r if there are any cubes hovering above the ground they are dropped down.
-- k player kicks any cubes that are infront of him
+- <p>  get change color of target cube indicate the remaining stock and update points
+- <b> a cube is created in front of the player
+- <q> if there is a cube in front of the player then it gets destroyed
+- <x> all the cubes that exist on a stack in front of the player get deleted
+- <r> if there are any cubes hovering above the ground they are dropped down.
+- <k> player kicks any cubes that are infront of him
