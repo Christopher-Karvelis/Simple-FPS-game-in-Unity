@@ -35,7 +35,7 @@ The color of a cube indicates the amount of cubes that can be colected from that
 - \<b\> a cube is created in front of the player
 - \<q\> if there is a cube in front of the player then it gets deleted.
 - \<x\> all the cubes that exist on a stack in front of the player get deleted.
-- \<r\> if there are any cubes hovering above the ground they are dropped down.
+- \<r\> if there are any cubes hovering above the ground they drop down.
 - \<k\> kick any cubes that are infront of the player.
 
 ## How to Play the Game
