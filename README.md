@@ -22,10 +22,10 @@ When the player reaches level N instantly gets 100 points and one life. In addit
 ## Cube Colors
 The color of a cube indicates the amount of cubes that can be colected from that cube
 
-- **Green:** 4 cubes
-- **Yellow:** 3 cubes
+- **Green:** 3 cubes
 - **Red:** 2 cubes
-- **Blue:** 1 cube
+- **Yellow:** 1 cubes
+- **Blue:** none
 - **Cyan:** 1 cylinder
 
 ## Controls
