@@ -13,7 +13,7 @@ The player can gather cubes and cylinders and start building in order to climb i
 
 ## Scoring System
 - Collecting a cube or a cylinder costs 5 points.
-- Dropping at from level 3 and above results to loosing 10 points for each level.
+- Dropping from level 3 and above results to loosing 10 points for each level.
 - Climbing to a cube or a cylinder adds 10 points. 
 
 ## Goal
