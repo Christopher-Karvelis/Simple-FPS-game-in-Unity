@@ -3,7 +3,7 @@ This is a simple FPS game I developed during a university course using Unity eng
 
 
 ## Start of the game
-- The game starts with a starting menu which waits for the user to give a value N (greater than 1 for the game to make sense). When the user gives a value and presses enter a terain of  N*N cubes is created.
+- The game starts with a starting menu which waits for the user to enter a value N (greater than 1 for the game to make sense). When player gives a value and presses enter a terain of  N*N cubes is created.
 
 - Player begins with 100 points and 4 lives.
 
