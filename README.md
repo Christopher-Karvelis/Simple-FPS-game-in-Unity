@@ -1,9 +1,9 @@
 # Simple FPS game in Unity 
-This is a simple FPS game I developed during a university course using Unity engine.
+This is a simple FPS game I developed during a university course using Unity engine and C#.
 
 
 ## Start of the game
-- The game starts with a starting menu which waits for the user to give a value n (greater than 1 for the game to make sense). When the user gives a value and presses the Enter button on the main keyboard and not the numpad (Input.GetKeyDown("return")) then a terain of  n*n cubes is created.
+- The game starts with a starting menu which waits for the user to give a value n (greater than 1 for the game to make sense). When the user gives a value and presses the Enter button on the main keyboard and not the numpad (Input.GetKeyDown("return")) then a terain of  N*N cubes is created.
 
 - Player begins with 100 points and 4 lives
 
@@ -16,14 +16,17 @@ The player can gather cubes and cylinders and start building in order to climb i
 - Dropping at from level 3 and above results to loosing 10 points for each level.
 - Climbing to a cube or a cylinder adds 10 points. 
 
-When the player reaches level N then he gets 100 points and one life. In addition 
-a red cube appears at level 2*N with the same properties as the magenta cube, 
-the user has time depending on the size he gave to reach the red cube 
-cube and climb on it. If the player succeeds he wins the game in every other 
-in any other case the player loses the game.
+## Goal
+When the player reaches level N instantly gets 100 points and one life. In addition a red cube appears at level 2*N with the same properties as the magenta cube and player has  a time limiy depending on N to reach the red cube cube and climb on it. If the player succeeds he wins the game otherwise it is game over.
 
 ## Cube Colors
-- Green: 4 remaining 
+The color of a cube indicates the amount of cubes that can be colected from that cube
+
+- **Green:** 4 cubes
+- **Yellow:** 3 cubes
+- **Red:** 2 cubes
+- **Blue:** 1 cube
+- **Cyan:** 1 cylinder
 
 ## Controls
 - \<p\> 
