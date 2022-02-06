@@ -3,9 +3,9 @@ This is a simple FPS game I developed during a university course using Unity eng
 
 
 ## Start of the game
-- The game starts with a starting menu which waits for the user to give a value N (greater than 1 for the game to make sense). When the user gives a value and presses the Enter button on the main keyboard and not the numpad (Input.GetKeyDown("return")) then a terain of  N*N cubes is created.
+- The game starts with a starting menu which waits for the user to give a value N (greater than 1 for the game to make sense). When the user gives a value and presses enter a terain of  N*N cubes is created.
 
-- Player begins with 100 points and 4 lives
+- Player begins with 100 points and 4 lives.
 
 ## Basic Functions
 The player can gather cubes and cylinders and start building in order to climb in to higher levels. If player falls from level N or spend all his points he looses 1 life.
