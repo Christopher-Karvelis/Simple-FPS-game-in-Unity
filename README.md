@@ -8,7 +8,7 @@ This is a simple FPS game I developed during a university course using Unity eng
 - Player begins with 100 points and 4 lives
 
 ## Basic Functions
-The player can gather cubes and cylinders and start building in order to climb in to higher levels. 
+The player can gather cubes and cylinders and start building in order to climb in to higher levels. If player falls from level N or spend all his points he looses 1 life.
 
 
 ## Scoring System
