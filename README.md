@@ -37,3 +37,6 @@ The color of a cube indicates the amount of cubes that can be colected from that
 - \<x\> all the cubes that exist on a stack in front of the player get deleted.
 - \<r\> if there are any cubes hovering above the ground they are dropped down.
 - \<k\> kick any cubes that are infront of the player.
+
+## How to Play the Game
+Download the "Executable" folder and run the New Unity Project.exe
