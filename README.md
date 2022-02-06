@@ -32,11 +32,11 @@ The color of a cube indicates the amount of cubes that can be colected from that
 - \<p\> 
   - if the target cube is cyan color then you get a cylinder and the cube gets deleted
   - otherwise you get a cube and change color of target cube to indicate the remaining stock. 
-- \<b\> a cube is created in front of the player
-- \<q\> if there is a cube in front of the player then it gets deleted.
-- \<x\> all the cubes that exist on a stack in front of the player get deleted.
-- \<r\> if there are any cubes hovering above the ground they drop down.
-- \<k\> kick any cubes that are infront of the player.
+- \<b\> A cube is created in front of the player.
+- \<q\> If there is a cube in front of the player then it gets deleted.
+- \<x\> All the cubes that exist on a stack in front of the player get deleted.
+- \<r\> If there are any cubes hovering above the ground they fall down.
+- \<k\> Kick any cubes that are infront of the player.
 
 ## How to Play the Game
-Download the "Executable" folder and run the New Unity Project.exe
+Download the "Executable" folder and run the New Unity Project.exe choose th graphic settings and press the Play! buttno.
