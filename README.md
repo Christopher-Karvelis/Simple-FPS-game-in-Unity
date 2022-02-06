@@ -3,9 +3,12 @@ This is a simple FPS game I developed during a university course using Unity eng
 
 
 ## Start of the game
-The game starts with a starting menu which waits for the user to give a value (greater than 1 for the game to make sense). When the user gives a value and presses the Enter button on the main keyboard and not the numpad (Input.GetKeyDown("return"))  
+The game starts with a starting menu which waits for the user to give a value n (greater than 1 for the game to make sense). When the user gives a value and presses the Enter button on the main keyboard and not the numpad (Input.GetKeyDown("return")) then a terain of  n*n cubes is created.
 
 ## Basic Functions
+The player can gather cubes and cylinders and start building in order to climb in to higher levels. 
+
+## Scoring System
 If the player drops at least 2 levels he starts to lose points, also
 If he climbs to a cube or a cylinder gets 10 points. 
 
@@ -15,12 +18,13 @@ the user has time depending on the size he gave to reach the red cube
 cube and climb on it. If the player succeeds he wins the game in every other 
 in any other case the player loses the game.
 
-Cube Colors
+## Cube Colors
+
 
 ## Controls
-- <p>  get change color of target cube indicate the remaining stock and update points
+- <p> get one of the target cube and change color to indicate the remaining stock. update points
 - <b> a cube is created in front of the player
-- <q> if there is a cube in front of the player then it gets destroyed
-- <x> all the cubes that exist on a stack in front of the player get deleted
+- <q> if there is a cube in front of the player then it gets deleted.
+- <x> all the cubes that exist on a stack in front of the player get deleted.
 - <r> if there are any cubes hovering above the ground they are dropped down.
-- <k> player kicks any cubes that are infront of him
+- <k> kick any cubes that are infront of the player.
